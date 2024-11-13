@@ -1,16 +1,8 @@
-# fitness
+# MunchMode
 
-A new Flutter project.
+A Flutter UI project to choose breakfast options
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+An app to customize your meals based on calories and level of consumption, provides with the popular options in different categories and diets
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
